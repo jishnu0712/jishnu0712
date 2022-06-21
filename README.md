@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnu0712&label=Profile%20views&color=0e75b6&style=flat" alt="jishnu0712" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m skilled in **React.js**, **JavaScript**, **Git**, **HTML**, **CSS**, **Bootstrap**
 
 - 📫 How to reach me **jishnu.dev.roy@gmail.com**
 
